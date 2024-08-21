@@ -15,7 +15,7 @@ It provides scripts to perform automated interactions with web page elements.
   - Dropdowns
   - Tables
 
-## Prerequisites
+## Pre-requisites
 
 - Python 3.x
 - Selenium package
