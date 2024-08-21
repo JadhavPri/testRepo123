@@ -1,4 +1,4 @@
-# Selenium and Python Web Automation
+# Web Form Automation with Selenium and Python
 
 ## Description
 
