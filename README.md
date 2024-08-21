@@ -23,8 +23,6 @@ It provides scripts to perform automated interactions with web page elements.
 
 ## Installation
 
-   **Clone the Repository:**
-
    Clone the repository using the repository URL : git clone https://github.com/username/repository-name.git
    
 
